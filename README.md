@@ -20,7 +20,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">  
-</div>
+</div><br>
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelinopedro&show_icons=true&locale=en&layout=compact" alt="marcelinopedro" /></p>
