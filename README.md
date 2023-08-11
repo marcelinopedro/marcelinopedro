@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pedro Marcelino</h1>
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">DevOps</h3>
 
 - 🔭 I’m currently working for WebCertificados as Developer
-- 🌱 I’m currently learning **Aws, SQL and React**
+- 🌱 I’m currently learning **Aws, jS and SQL**
 
 - 📫 How to reach me **pedro-rocha2001@hotmail.com**
 
