@@ -2,7 +2,7 @@
 <h3 align="center">DevOps</h3>
 
 - 🔭 I’m currently working for WebCertificados as Developer
-- 🌱 I’m currently learning **AWS, jS and SQL**
+- 🌱 I’m currently learning **Python, jS and AWS**
 
 - 📫 How to reach me **pedro-rocha2001@hotmail.com**
 
