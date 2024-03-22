@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pedro Marcelino</h1>
-<h3 align="center">DevOps</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working for WebCertificados as Developer
-- 🌱 I’m currently learning **Python, jS and AWS**
+- 🌱 I’m currently learning **Python, jS, Node and AWS**
 
 - 📫 How to reach me **pedro-rocha2001@hotmail.com**
 
@@ -24,9 +24,9 @@
 </div><br>
 
 <div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelinopedro&show_icons=true&locale=en&layout=compact" alt="marcelinopedro" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelinopedro&show_icons=true&locale=en&layout=compact" alt="marcelinopedro" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelinopedro&show_icons=true&locale=en" alt="marcelinopedro" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=marcelinopedro&show_icons=true&locale=en" alt="marcelinopedro" /></p>
 </div>
