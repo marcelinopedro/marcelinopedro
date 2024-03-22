@@ -26,3 +26,17 @@
 <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelinopedro&theme=swift&show_icons=true&locale=en" alt="marcelinopedro" /></p>
 </div>
+import Desenvolvedor from "SeuNick";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Seu nome";
+  area = "Sua área";
+  trabalho = "Onde trabalha";
+  local = "Local";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Suas linguagens"];
+  bibliotecas = ["Suas bibliotecas"];
+  frameworks = ["Seus frameworks"];
+}
