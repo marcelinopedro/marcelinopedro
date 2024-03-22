@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Pedro Marcelino</h1>
-<h3 align="center">Software Engineer</h3>
+```js
+import SoftwareEngineer from "Pedro Marcelino";
 
-- 🔭 I’m currently working for WebCertificados as Developer
-- 🌱 I’m currently learning **Python, jS, Node and AWS**
-
-- 📫 How to reach me **pedro-rocha2001@hotmail.com**
+class SobreMim extends SoftwareEngineer {
+  name = "Pedro Marcelino";
+  work = "WebCertificados";
+  local = "Juiz de Fora - MG";
+  email = "pedro-rocha2001@hotmail.com";
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,13 +31,3 @@
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelinopedro&theme=swift&include_all_commits=true&count_private=true&layout=compact" alt="marcelinopedro"/></p>
 </div>
-
-```js
-import SoftwareEngineer from "Pedro Marcelino";
-
-class SobreMim extends SoftwareEngineer {
-  name = "Pedro Marcelino";
-  work = "WebCertificados";
-  local = "Juiz de Fora - MG";
-}
-```
