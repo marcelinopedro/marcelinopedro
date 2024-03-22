@@ -30,6 +30,7 @@ class SobreMim extends SoftwareEngineer {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelinopedro&theme=swift&include_all_commits=true&count_private=true" alt="marcelinopedro" /></p>
 </div>
 
+<h3 align="center">Número de visitantes no perfil:</h3>
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/marcelinopedro/count.svg"
