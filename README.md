@@ -24,9 +24,5 @@
 </div><br>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=marcelinopedro&theme=swift&show_icons=true&locale=pt-br&layout=compact" alt="marcelinopedro" /></p>
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelinopedro&theme=swift&show_icons=true&locale=en" alt="marcelinopedro" /></p>
 </div>
