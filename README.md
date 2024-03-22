@@ -30,18 +30,11 @@
 </div>
 
 ```js
-import Desenvolvedor from "SeuNick";
+import SoftwareEngineer from "Pedro Marcelino";
 
-class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
-  local = "Local";
-}
-
-class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
+class SobreMim extends SoftwareEngineer {
+  name = "Pedro Marcelino";
+  work = "WebCertificados";
+  local = "Juiz de Fora - MG";
 }
 ```
