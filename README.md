@@ -26,6 +26,6 @@ class SobreMim extends SoftwareEngineer {
     
 </div><br>
 
-<div> 
+<div align="center"> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelinopedro&theme=swift&include_all_commits=true&count_private=true" alt="marcelinopedro" /></p>
 </div>
