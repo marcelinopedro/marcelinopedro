@@ -5,7 +5,7 @@ class SobreMim extends SoftwareEngineer {
   name = "Pedro Marcelino";
   work = "WebCertificados";
   local = "Juiz de Fora - MG";
-  email = "pedro-rocha2001@hotmail.com";
+  email = "psrmarcelino09@gmail.com";
 }
 ```
 
